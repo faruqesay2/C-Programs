@@ -1,0 +1,14 @@
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\PalindromeProgram\PalindromeProgram\bin\Debug\netcoreapp3.1\PalindromeProgram.exe
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\PalindromeProgram\PalindromeProgram\bin\Debug\netcoreapp3.1\PalindromeProgram.deps.json
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\PalindromeProgram\PalindromeProgram\bin\Debug\netcoreapp3.1\PalindromeProgram.runtimeconfig.json
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\PalindromeProgram\PalindromeProgram\bin\Debug\netcoreapp3.1\PalindromeProgram.runtimeconfig.dev.json
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\PalindromeProgram\PalindromeProgram\bin\Debug\netcoreapp3.1\PalindromeProgram.dll
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\PalindromeProgram\PalindromeProgram\bin\Debug\netcoreapp3.1\PalindromeProgram.pdb
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.AssemblyInfo.cs
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.csproj.CoreCompileInputs.cache
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.dll
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.pdb
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.genruntimeconfig.cache

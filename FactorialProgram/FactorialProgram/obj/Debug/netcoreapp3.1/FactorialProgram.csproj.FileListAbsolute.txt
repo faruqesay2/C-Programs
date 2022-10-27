@@ -1,0 +1,14 @@
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\FactorialProgram\FactorialProgram\bin\Debug\netcoreapp3.1\FactorialProgram.exe
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\FactorialProgram\FactorialProgram\bin\Debug\netcoreapp3.1\FactorialProgram.deps.json
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\FactorialProgram\FactorialProgram\bin\Debug\netcoreapp3.1\FactorialProgram.runtimeconfig.json
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\FactorialProgram\FactorialProgram\bin\Debug\netcoreapp3.1\FactorialProgram.runtimeconfig.dev.json
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\FactorialProgram\FactorialProgram\bin\Debug\netcoreapp3.1\FactorialProgram.dll
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\FactorialProgram\FactorialProgram\bin\Debug\netcoreapp3.1\FactorialProgram.pdb
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\FactorialProgram\FactorialProgram\obj\Debug\netcoreapp3.1\FactorialProgram.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\FactorialProgram\FactorialProgram\obj\Debug\netcoreapp3.1\FactorialProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\FactorialProgram\FactorialProgram\obj\Debug\netcoreapp3.1\FactorialProgram.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\FactorialProgram\FactorialProgram\obj\Debug\netcoreapp3.1\FactorialProgram.AssemblyInfo.cs
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\FactorialProgram\FactorialProgram\obj\Debug\netcoreapp3.1\FactorialProgram.csproj.CoreCompileInputs.cache
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\FactorialProgram\FactorialProgram\obj\Debug\netcoreapp3.1\FactorialProgram.dll
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\FactorialProgram\FactorialProgram\obj\Debug\netcoreapp3.1\FactorialProgram.pdb
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\FactorialProgram\FactorialProgram\obj\Debug\netcoreapp3.1\FactorialProgram.genruntimeconfig.cache
